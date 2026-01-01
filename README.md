@@ -35,10 +35,6 @@ docker-compose up -d
 ./test-api.sh
 ```
 
-**Access your app:**
-- **Frontend:** http://localhost
-- **Backend API:** http://localhost:5000/api/product/list
-
 **Common commands:**
 ```bash
 docker-compose logs -f backend      # View backend logs
